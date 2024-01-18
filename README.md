@@ -5,7 +5,7 @@ Nessa parte do projeto foi realizado o Back-End da aplicação, o Front-End est�
 
 ## Como usar
  - Baixe os aquivos
- - Execute o requeriments.txt com o seguinte comando -> pip install requeriments.txt;
+ - Execute o requeriments.txt com o seguinte comando -> pip install -r requeriments.txt;
  - Crie um Data Base de acordo com o diagrama abaixo;
  - Coloque as informações do Data Base na classe DataBase no metódo connect;
  - Execute o main.py e faça as operações sobre o banco.
